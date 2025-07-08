@@ -1,0 +1,8 @@
+torch
+torchdata
+datasets
+transformers
+deepspeed
+pandas
+wandb
+swanlab
